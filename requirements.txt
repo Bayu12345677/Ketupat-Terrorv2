@@ -11,3 +11,4 @@ httpx
 httpx[http2]
 requests
 cloudscraper
+torrequest
