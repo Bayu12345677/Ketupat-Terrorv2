@@ -1,2 +1,13 @@
 standard-aifc
 audioop-lts
+Faker
+stem
+pypasser
+blessed
+pyfiglet
+rich
+phonenumbers
+httpx
+httpx[http2]
+requests
+cloudscraper
