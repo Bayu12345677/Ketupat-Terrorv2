@@ -7,8 +7,10 @@
   <img src="https://img.shields.io/static/v1?label=Version&color=green&message=1.1&logo=Clockify&logoColor=white&style=for-the-badge"><br><br>
   <img src="https://img.shields.io/static/v1?label=Termux&color=green&message=+&logo=Iterm2&logoColor=white&style=flat">
   <img src="https://img.shields.io/github/forks/Bayu12345677/Ketupat-Terrorv2?logo=github&style=flat">
+  <a href="https://github.com/Bayu12345677">
+    <img src="https://komarev.com/ghpvc/?username=Ketupat-Terrorv2&label=Total+Views&color=00f7ff&style=plastic" alt="view count"/>
+  </a>
 </p>
-
 <p>
   ketupat terror adalah alat untuk melakukan spam otp kepada target dengan UI yang sangat canggih
 </p><br><br>
